@@ -2,5 +2,16 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.8",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VR_PAC_MAN",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Desktop",
+		"WindowsNoEditor"
+	]
 }
